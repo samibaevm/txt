@@ -1,0 +1,29 @@
+
+   Bug_ID :
+                ID_number : 1,
+                Name : Bug_title,
+                Reporter : author, 
+                Submit_Date : yyyy.mm.dd.
+              
+  Bug_overview 
+                Summary : summary text,
+                URL : url adress,
+                screenshot :  attachment
+                 
+  Enviroment :
+                 Platform : WIN/Mac/Linux etc.,
+                 Operating_system : OS ver,
+                 Browser : Chrome 53
+                
+  Bug_details :
+                  Steps_to_reproduse: step_1 and etc,
+                  expected_result : text,
+                  actual_result : text,
+                  Description : text
+                  
+  Bug_tracking:
+                  severity : Critica, Major, mediud, low ,
+                  assigned_to : programmer,
+                  priority : high, medium, low ,
+                  notes : /
+                  
