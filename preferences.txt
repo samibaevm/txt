@@ -1,0 +1,6 @@
+favorite_movie :avangers;
+favorite_serial :simpsons;
+favorite_food :plov;
+favorite_seson : spring;
+favorite_city :Stockholm;
+
